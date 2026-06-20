@@ -276,7 +276,7 @@ section h2{
 #why p{
     max-width:900px;
     margin:15px auto;
-    text-align:center;
+    text-align:left;
 }
 
 /* =========================
@@ -286,7 +286,7 @@ section h2{
 #join{
     background:#1b4332;
     color:white;
-    text-align:center;
+    text-align:left;
 }
 
 #join h2{
